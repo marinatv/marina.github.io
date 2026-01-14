@@ -1,0 +1,15 @@
+---
+title: "Marina Tornorsam"
+about:
+  template: jolla
+  image: Images/beach_self.jpeg
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/marina
+---
+
+Hello my name is Marina. Welcome to my website.
+
+*Graduate student*
+2025 - Present: University of British Columbia 
